@@ -11,6 +11,7 @@ class Skills extends Desenvolvedor {
   linguagens = ["Java", "JavaScript", "TypeScript"];
   frameworks = ["ExpressJS", "Spring Boot"];
   tecnologias = ["NodeJS", "Prisma"];
+  ferramentas = ["Visual Studio Code", "Eclipse", "Trello"];
 }
 ```
 
