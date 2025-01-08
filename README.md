@@ -1,17 +1,20 @@
 ```js
-import Desenvolvedor from "viniciuskalach";
+import Developer  from "viniciuskalach";
 
-class SobreMim extends Desenvolvedor {
-  nome = "Vinicius Kalach";
-  area = "Backend";
-  trabalho = "Matsuko Industria";
+// Informações gerais sobre mim
+class AboutMe  extends Developer  {
+  name = "Vinicius Kalach";
+  field = "Backend";
+  jopb = "Matsuko Industria";
 }
 
-class Skills extends Desenvolvedor {
-  linguagens = ["Java", "JavaScript", "TypeScript"];
-  frameworks = ["ExpressJS", "Spring Boot"];
-  tecnologias = ["NodeJS", "Prisma"];
-  ferramentas = ["Visual Studio Code", "Eclipse", "Trello"];
+// Tecnologias e ferramentas que utilizo
+class Stacks extends Developer  {
+  languages  = ["Java", "JavaScript", "TypeScript"];
+  frameworks = ["Spring Boot", "ExpressJS", "NextJs"];
+  libraries = ["Hibernate", "Prisma"];
+  tools = ["Visual Studio Code", "Eclipse", "Trello"];
+  others = ["Git", "REST APIs"];
 }
 ```
 
