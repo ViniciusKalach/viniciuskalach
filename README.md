@@ -25,7 +25,7 @@ class Stacks extends Developer  {
 </div>
 
 ```js
-import contatos from "viniciuskalach";
+import contacts from "viniciuskalach";
 ```
 
 <div align="center">
