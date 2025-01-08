@@ -11,7 +11,7 @@ class AboutMe  extends Developer  {
 // Tecnologias e ferramentas que utilizo
 class Stacks extends Developer  {
   languages  = ["Java", "JavaScript", "TypeScript"];
-  frameworks = ["Spring Boot", "ExpressJS", "NextJs"];
+  frameworks = ["Spring Boot", "ExpressJS", "NestJs"];
   libraries = ["Hibernate", "Prisma"];
   tools = ["Visual Studio Code", "Eclipse", "Trello"];
   others = ["Git", "REST APIs"];
